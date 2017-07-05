@@ -39,3 +39,6 @@ Thumbs.db
 # Node JS #
 ######################
 node_modules
+
+# Editor #
+.idea/**
