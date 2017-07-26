@@ -1,8 +1,6 @@
 Hello Jenkins
 -
 
-Testing an instance of continuous delivery using open source such as 
-Github. The purpose of this is to lay the foundation of deployment to a server by following 
-GitFlow. Next steps is to find a affordable cloud server hosting service.
+This repo is a example of CI/CD working with UI code following a pattern of having a Githook plugin Service activated on this repo that a Jenkins Server that I have running in a instance of Digital Ocean. One server watches the Github repo then runs install, tests and if successful deploys to another server where the code is hosted.
 
-Or I might do this in the basement. 
+I am working on a blog post on showing how this is done.
