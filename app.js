@@ -1,8 +1,11 @@
-var express = require('express');
+"use strict";
+var NODE = NODE;
+var process = NODE.process;
+var express = require("express");
 var app = express();
 
-app.get('/', function (req, res){
-    res.send('hello sundeep');
+app.get("/", function (req, res){
+    res.send("hello sundeep");
 });
 
 app.listen(process.env.PORT || 5000);
