@@ -1,6 +1,3 @@
-"use strict";
-var NODE = NODE;
-var process = NODE.process;
 var express = require("express");
 var app = express();
 
