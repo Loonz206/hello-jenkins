@@ -3,7 +3,7 @@ var app = require("../app.js");
 
 describe("GET /", function () {
     it("respond with hello sundeep", function (done){
-        request(app).get("/").expect("hello sundeep", done);
+        request(app).get("/").expect("hello Lenny", done);
     });
 });
 
