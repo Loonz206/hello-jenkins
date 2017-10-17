@@ -1,4 +1,4 @@
-[![Build Status](http://107.170.228.115:8080/job/hello-jenkins/badge/icon)](http://107.170.228.115:8080/job/hello-jenkins/)
+[![Build Status](http://107.170.228.115:8080/buildStatus/icon?job=hello-jenkins)](http://107.170.228.115:8080/job/hello-jenkins/)
 
 Hello Jenkins
 -
