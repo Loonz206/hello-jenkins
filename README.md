@@ -1,3 +1,5 @@
+[![Build Status](http://107.170.228.115:8080/job/hello-jenkins/badge/icon)
+
 Hello Jenkins
 -
 
